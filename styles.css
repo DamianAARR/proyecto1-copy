@@ -1,0 +1,19 @@
+h1 {
+    color: black;
+    background-color: yellow;
+    outline: blue 1px;
+    padding: 20px;
+}
+
+h2 {
+    color: black;
+    background-color: cyan;
+    outline: green 1px;
+    padding: 20px;
+}
+
+p{
+    color: grey;
+    background-color: pink;
+    padding: 40px;
+}
